@@ -52,6 +52,7 @@ export default function Page() {
                     />
                 </div>
             </div>
+            <p>Git Test</p>
         </main>
     );
 }
